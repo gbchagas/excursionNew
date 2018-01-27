@@ -1,23 +1,22 @@
 body {
   background-color: black;
-}
-
-h1 {
-  font-family: Verdana;
-  font-weight: normal;
-  font-size: 50px;
+  font-family: "Verdana", sans-serif;
   color: white;
   text-align: center;
 }
 
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+
+  }
+
 h2 {
-  font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
   }
 
-  h3 {
+  .link {
+    color: aquamarine;
     font-size: 16px;
-    color: Aquamarine;
-    text-align: center;
   }
